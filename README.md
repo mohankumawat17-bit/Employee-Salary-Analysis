@@ -1,3 +1,16 @@
+Employee-Salary-Analysis/
+│
+├── SQL/
+│   └── employee_salary_analysis.sql
+│
+├── PowerBI/
+│   └── employee_salary_dashboard.pbix
+│
+├── Screenshots/
+│   └── dashboard.png 
+│
+└── README.md
+
 Employee Salary Analysis Dashboard
 
 Tools Used:
