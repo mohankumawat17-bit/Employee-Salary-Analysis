@@ -1,1 +1,0 @@
-SELECT * FROM practice_db.departments;
